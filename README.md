@@ -31,3 +31,5 @@ https://www.kaggle.com/code/vladislavbavykin/ann-lab9
 **Spam Classification**
 
 Работа по классификации спама в сообщениях с помощью методов ML и нейронных сетей (TF-IDF, LSTM, BERT)
+
+https://www.kaggle.com/code/vladislavbavykin/spamclassification
