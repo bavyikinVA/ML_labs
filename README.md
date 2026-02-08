@@ -27,3 +27,7 @@ https://www.kaggle.com/code/vladislavbavykin/ann8-vae
 Задача - научить RNN и LSTM распознавать предметы на изображении (датасет Flickr30k, encoder ResNet50)
 
 https://www.kaggle.com/code/vladislavbavykin/ann-lab9
+
+**Spam Classification**
+
+Работа по классификации спама в сообщениях с помощью методов ML и нейронных сетей (TF-IDF, LSTM, BERT)
